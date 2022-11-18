@@ -1,4 +1,5 @@
 # MVVM-studying<br><br>
+<div align="center">
 <h2>MVVM 패턴은 무엇인가?</h2><br>
 <h4>MVVM 패턴은 Model, View, ViewModel을 분리해 뷰에 모델간의 의존성을 줄여주도록 한다.</h4>
 <img src="https://velog.velcdn.com/images%2Fdddooo9%2Fpost%2F02803dfe-c2e7-4cea-9cf7-74d757e60f2d%2Fimage.png" />
@@ -14,7 +15,5 @@
 |라이브데이터를 감지해 저장된 값을 뷰에<br> 출력|||
 
 <br><br>
-
-<div align="center">
    <h3>뷰와 모델의 관심사를 충분히 분리할 수 있고, 화면회전 등의 동작으로 뷰가 다시 생성되어도 뷰모델을 통해 데이터를 유지할 수 있는 MVVM의 특징이다</h3>
 </div
