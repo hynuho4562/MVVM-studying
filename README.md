@@ -26,3 +26,8 @@
 ## DataBinding & LiveData
 > ### DataBinding?? xml파일에 Data를 연결해서 사용할 수 있게 도와준다.
 > ### LiveData?? 관찰 가능한 데이터를 담아두는 클래스입니다.
+
+<br><br><br>
+
+## AAC(Android Architecture Component)
+MVVM 패턴을 쉽게 구현하도록 구글에서는 AAC(Android Architecture Component)를 제공한다.
