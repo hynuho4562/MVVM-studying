@@ -49,3 +49,15 @@
 > - #### LiveData는 관찰 가능한 데이터 홀더 클래스이다.
 > - #### 관찰 가능한 일반 클래스와 달리 LiveData는 Lifecycle를 인식합니다.
 > - #### 활성 상태에 있는 앱 클래스의 옵저버에게만 업데이트 정보를 알릴 수 있다.
+```
+public class NameViewModel extends ViewModel {
+    private MutableLiveData<String> currentName;
+
+    public MutableLiveData<String> getCurrentName() {
+        if (currentName == null) {
+            currentName = new MutableLiveData<String>();
+        }
+        return currentName;
+    }
+}
+```
