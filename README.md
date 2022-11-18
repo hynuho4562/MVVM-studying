@@ -29,5 +29,5 @@
 
 <br><br><br>
 
-## AAC(Android Architecture Component)
-### MVVM 패턴을 쉽게 구현하도록 구글에서는 AAC(Android Architecture Component)를 제공한다.
+# AAC(Android Architecture Component)
+## MVVM 패턴을 쉽게 구현하도록 구글에서는 AAC(Android Architecture Component)를 제공한다.
