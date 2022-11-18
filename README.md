@@ -18,3 +18,11 @@
 </div>
 
 - ## MVVM 패턴 적용방법
+```
+android {
+        ...
+        dataBinding {
+            enabled = true
+        }
+    }
+```
