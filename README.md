@@ -31,4 +31,8 @@
 
 # AAC(Android Architecture Component)
 > ### MVVM 패턴을 쉽게 구현하도록 구글에서는 AAC(Android Architecture Component)를 제공한다.
-![image](https://user-images.githubusercontent.com/118269278/202647821-acdc0b79-4f62-4228-ad73-8f53244baf0b.png)
+![image](https://user-images.githubusercontent.com/118269278/202647821-acdc0b79-4f62-4228-ad73-8f53244baf0b.png)<br><br>
+> ### ACC는 Android Jetpack의 구성 요소로 테스트와 유지관리가 쉬운 앱을 디자인하도록 돕는 라이브러리 모음
+> - ### LiveData를 사용하여 기본 데이터베이스가 변경되면 뷰에 알리는 데이터 객체를 빌드합니다.
+> - ### ViewModel은 앱 회전 시 제거되지 않는 UI 관련 데이터를 저장합니다.
+> - ### Room은 SQLite 개체 매핑 라이브러리입니다.
