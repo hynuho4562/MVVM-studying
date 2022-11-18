@@ -61,4 +61,6 @@ public class NameViewModel extends ViewModel {
         return currentName;
     }
 }
+
+LiveData의 인스턴스를 생성한다.
 ```
